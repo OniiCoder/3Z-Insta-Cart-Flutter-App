@@ -1,0 +1,27 @@
+name: threezinstacart
+description: "3Z Insta Cart - Flutter Mobile App with BLoC Cubit, rich offline grocery catalog, and simulated order lifecycle."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.5
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.8
+  iconsax_plus: ^1.0.0
+  cached_network_image: ^3.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  bloc_test: ^9.1.7
+
+flutter:
+  uses-material-design: true
