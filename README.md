@@ -81,7 +81,7 @@ lib/
 
 ### 1. Install Dependencies
 ```bash
-cd /Users/peterperez/Documents/Androidstudioprojects/threezinstacart
+cd /project_path/threezinstacart
 flutter pub get
 ```
 
